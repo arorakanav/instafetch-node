@@ -1,0 +1,26 @@
+{
+  "name": "instafetch",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "description": "NodeJs package to fetch public data from Instagram.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parassharmaa/instafetch-node.git"
+  },
+  "keywords": [
+    "Instagram"
+  ],
+  "author": "Paras Sharmaa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Parassharmaa/instafetch-node/issues"
+  },
+  "homepage": "https://github.com/Parassharmaa/instafetch-node#readme",
+  "dependencies": {}
+}
